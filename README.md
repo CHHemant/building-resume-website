@@ -16,8 +16,7 @@ Using the power of github.dev, a service that allows you to work with files in G
 
 ## Video walk-through
 
-[![workshop walk-through](./images/promo.png)](https://youtu.be/M2IrPFMFwx8 "workshop walk-through")
-> 🎥 Click this image to watch Ornella and Burke as they walk you through the workshop
+[![workshop walk-through]](https://youtu.be/M2IrPFMFwx8 "workshop walk-through")
 
 ## Prerequisites
 To create your resume website, you'll need to download a modern web browser like [Microsoft Edge](https://www.microsoft.com/edge?WT.mc_id=academic-51109-ornella) or [Google Chrome](https://www.google.com/chrome/). You'll also need a [GitHub account](https://github.com/join).
@@ -42,5 +41,6 @@ Let's get started!
 Be sure to give [feedback about this workshop](https://forms.office.com/r/MdhJWMZthR)!
 
 [Code of Conduct](../../CODE_OF_CONDUCT.md)
+
 
 
