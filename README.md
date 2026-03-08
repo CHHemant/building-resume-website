@@ -12,7 +12,6 @@ Using the power of github.dev, a service that allows you to work with files in G
 | **What you'll need**          | A modern web browser like [Microsoft Edge](https://www.microsoft.com/edge?WT.mc_id=academic-51109-ornella) or [Google Chrome](https://www.google.com/chrome/) and a [GitHub account](https://github.com) |
 | **Duration**                  | 1 - 1.5 hour(s)                                                                |
 | **Just want to try the app or see the solution?** | [Solution](./solution)                         |
-| **Slides** | [Powerpoint](slides.pptx)
 | **Author** | [Ornella Altunyan](https://aka.ms/ornelladotcom)
 
 ## Video walk-through
@@ -43,4 +42,5 @@ Let's get started!
 Be sure to give [feedback about this workshop](https://forms.office.com/r/MdhJWMZthR)!
 
 [Code of Conduct](../../CODE_OF_CONDUCT.md)
+
 
